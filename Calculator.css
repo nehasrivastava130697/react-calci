@@ -1,0 +1,72 @@
+body{
+    font-family: 'Anton', sans-serif;
+}
+.output{
+    height:4rem;
+    width:19.6rem;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    
+    margin-top: 50px;
+    margin-left: 450px;
+    background-color: #dcdde1;
+   
+    outline: none;
+    color: #c23616;
+    font-size: 2rem;
+    border-color: #487eb0;
+    font-family: 'Anton', sans-serif;
+}
+.operator{
+    
+    width: 20rem;
+    
+    margin-left: 450.5px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #487eb0;
+
+}
+.op{
+    height:3rem;
+    width:5rem;
+    font-size: 3rem;
+    display: block;
+    justify-content: center;
+    text-align:center;
+    color: #2f3640;
+    background-color: #718093;
+ 
+    border-color: #7f8fa6;
+    
+    
+    
+    
+}
+.keypad{
+    height:12rem;
+    width:20rem;
+    margin-left: 450.5px;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    background-color:#273c75;
+    border-color: #353b48;
+
+}
+.key{
+    height:3rem;
+    width:4rem;
+    font-size: 1.5rem;
+    background-color:#718093;
+    color: #353b48;
+    margin: 0.5rem;
+    outline: none;
+    
+    border-color: #7f8fa6;
+    font-family: 'Anton', sans-serif;
+   
+
+}
