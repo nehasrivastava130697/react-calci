@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/reat-calci/static/css/main.4d83bc98.chunk.css",
-    "main.js": "/reat-calci/static/js/main.62eb304b.chunk.js",
-    "main.js.map": "/reat-calci/static/js/main.62eb304b.chunk.js.map",
-    "runtime-main.js": "/reat-calci/static/js/runtime-main.0dfbfddc.js",
-    "runtime-main.js.map": "/reat-calci/static/js/runtime-main.0dfbfddc.js.map",
-    "static/js/2.dc06b3e7.chunk.js": "/reat-calci/static/js/2.dc06b3e7.chunk.js",
-    "static/js/2.dc06b3e7.chunk.js.map": "/reat-calci/static/js/2.dc06b3e7.chunk.js.map",
-    "index.html": "/reat-calci/index.html",
-    "static/css/main.4d83bc98.chunk.css.map": "/reat-calci/static/css/main.4d83bc98.chunk.css.map",
-    "static/js/2.dc06b3e7.chunk.js.LICENSE.txt": "/reat-calci/static/js/2.dc06b3e7.chunk.js.LICENSE.txt"
+    "main.css": "/react-calci/static/css/main.4d83bc98.chunk.css",
+    "main.js": "/react-calci/static/js/main.62eb304b.chunk.js",
+    "main.js.map": "/react-calci/static/js/main.62eb304b.chunk.js.map",
+    "runtime-main.js": "/react-calci/static/js/runtime-main.d6e4eb94.js",
+    "runtime-main.js.map": "/react-calci/static/js/runtime-main.d6e4eb94.js.map",
+    "static/js/2.dc06b3e7.chunk.js": "/react-calci/static/js/2.dc06b3e7.chunk.js",
+    "static/js/2.dc06b3e7.chunk.js.map": "/react-calci/static/js/2.dc06b3e7.chunk.js.map",
+    "index.html": "/react-calci/index.html",
+    "static/css/main.4d83bc98.chunk.css.map": "/react-calci/static/css/main.4d83bc98.chunk.css.map",
+    "static/js/2.dc06b3e7.chunk.js.LICENSE.txt": "/react-calci/static/js/2.dc06b3e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0dfbfddc.js",
+    "static/js/runtime-main.d6e4eb94.js",
     "static/js/2.dc06b3e7.chunk.js",
     "static/css/main.4d83bc98.chunk.css",
     "static/js/main.62eb304b.chunk.js"
